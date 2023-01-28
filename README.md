@@ -10,5 +10,5 @@ Einfach Doppelklick auf die `oidgen.vbs` Datei und anschließend wird in einem T
 
 ### Grant Group Local Admin Rights
 Damit können wir eine Lokale Gruppe die gleichen Rechte geben, die ein lokaler Admin hat. 
-In der Datei `addGroupToAdmins.ps1` den Namen der Domäne und den Namen der Gruppe noch entsprechend ändern. 
+In der Datei `addGroupToAdmins.ps1` den Namen der Domäne und den Namen der Gruppe bei der Variable `$group_to_add` noch entsprechend ändern. 
 Anschließend Rechtsklick auf die Datei und mit "Powershell ausführen" bzw. einfach nur Doppelklick!
